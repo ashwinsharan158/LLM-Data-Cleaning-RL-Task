@@ -13,7 +13,7 @@ The task is specifically engineered to serve as a high-quality, non-trivial benc
 
 ## 🎥 Demo Video
 
-[Click here for a video demonstration of the agent solving the task.](demo_vid.mp4)
+[Click here for a video demonstration of the agent solving the task.](https://www.loom.com/share/f94ed7679a404e7fb77a838a19ad928a)
 
 ***Note:** Please replace the placeholder link above with the actual URL to your demonstration video before posting to GitHub.*
 
@@ -174,5 +174,6 @@ export ANTHROPIC_API_KEY="your_key"
 *Assistance running the task*
 
 <center> ***Thank you.***
+
 
 
