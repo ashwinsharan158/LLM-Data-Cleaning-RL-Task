@@ -1,0 +1,9 @@
+anthropic>=0.67.0
+pytest>=8.0.0
+pytest-asyncio>=0.21.0
+
+# Used by mock client & test outputs
+aiohttp>=3.9.0
+
+# Standard utilities
+typing_extensions>=4.5.0
